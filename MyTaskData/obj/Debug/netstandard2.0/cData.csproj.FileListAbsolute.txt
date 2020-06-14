@@ -1,0 +1,8 @@
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\bin\Debug\netstandard2.0\cData.deps.json
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\bin\Debug\netstandard2.0\cData.dll
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\bin\Debug\netstandard2.0\cData.pdb
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\obj\Debug\netstandard2.0\cData.csproj.CoreCompileInputs.cache
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\obj\Debug\netstandard2.0\cData.AssemblyInfoInputs.cache
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\obj\Debug\netstandard2.0\cData.AssemblyInfo.cs
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\obj\Debug\netstandard2.0\cData.dll
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\obj\Debug\netstandard2.0\cData.pdb

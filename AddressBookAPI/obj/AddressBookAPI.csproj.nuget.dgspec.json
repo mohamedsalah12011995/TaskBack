@@ -1,0 +1,312 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\AddressBookAPI\\AddressBookAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\AddressBookAPI\\AddressBookAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\AddressBookAPI\\AddressBookAPI.csproj",
+        "projectName": "AddressBookAPI",
+        "projectPath": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\AddressBookAPI\\AddressBookAPI.csproj",
+        "packagesPath": "C:\\Users\\Mo Salah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\AddressBookAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mo Salah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskData\\MyTaskData.csproj": {
+                "projectPath": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskData\\MyTaskData.csproj"
+              },
+              "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskDomain\\MyTaskDomain.csproj": {
+                "projectPath": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskDomain\\MyTaskDomain.csproj"
+              },
+              "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskService\\MyTaskService.csproj": {
+                "projectPath": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskService\\MyTaskService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.1.1, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskData\\MyTaskData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskData\\MyTaskData.csproj",
+        "projectName": "MyTaskData",
+        "projectPath": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskData\\MyTaskData.csproj",
+        "packagesPath": "C:\\Users\\Mo Salah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskData\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mo Salah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskDomain\\MyTaskDomain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskDomain\\MyTaskDomain.csproj",
+        "projectName": "MyTaskDomain",
+        "projectPath": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskDomain\\MyTaskDomain.csproj",
+        "packagesPath": "C:\\Users\\Mo Salah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mo Salah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskData\\MyTaskData.csproj": {
+                "projectPath": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskData\\MyTaskData.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.SqlServer.Types": {
+              "target": "Package",
+              "version": "[14.0.1016.290, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskService\\MyTaskService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskService\\MyTaskService.csproj",
+        "projectName": "MyTaskService",
+        "projectPath": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskService\\MyTaskService.csproj",
+        "packagesPath": "C:\\Users\\Mo Salah\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskService\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Mo Salah\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskData\\MyTaskData.csproj": {
+                "projectPath": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskData\\MyTaskData.csproj"
+              },
+              "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskDomain\\MyTaskDomain.csproj": {
+                "projectPath": "C:\\Users\\Mo Salah\\Desktop\\Task MS\\TaskBack\\MyTaskBack\\MyTaskDomain\\MyTaskDomain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

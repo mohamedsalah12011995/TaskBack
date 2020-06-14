@@ -1,0 +1,16 @@
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\bin\Release\netstandard2.0\MyTaskService.deps.json
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\bin\Release\netstandard2.0\MyTaskService.dll
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\bin\Release\netstandard2.0\MyTaskService.pdb
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\bin\Release\netstandard2.0\Microsoft.AspNetCore.Http.dll
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\bin\Release\netstandard2.0\MyTaskData.dll
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\bin\Release\netstandard2.0\MyTaskDomain.dll
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\bin\Release\netstandard2.0\MyTaskData.pdb
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\bin\Release\netstandard2.0\MyTaskDomain.pdb
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\bin\Release\netstandard2.0\Microsoft.AspNetCore.Http.xml
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\obj\Release\netstandard2.0\MyTaskService.csprojAssemblyReference.cache
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\obj\Release\netstandard2.0\MyTaskService.csproj.CoreCompileInputs.cache
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\obj\Release\netstandard2.0\MyTaskService.AssemblyInfoInputs.cache
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\obj\Release\netstandard2.0\MyTaskService.AssemblyInfo.cs
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\obj\Release\netstandard2.0\MyTaskService.csproj.CopyComplete
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\obj\Release\netstandard2.0\MyTaskService.dll
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskService\obj\Release\netstandard2.0\MyTaskService.pdb

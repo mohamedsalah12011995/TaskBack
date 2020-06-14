@@ -1,0 +1,9 @@
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\bin\Release\netstandard2.0\MyTaskData.deps.json
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\bin\Release\netstandard2.0\MyTaskData.dll
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\bin\Release\netstandard2.0\MyTaskData.pdb
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\obj\Release\netstandard2.0\MyTaskData.csprojAssemblyReference.cache
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\obj\Release\netstandard2.0\MyTaskData.csproj.CoreCompileInputs.cache
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\obj\Release\netstandard2.0\MyTaskData.AssemblyInfoInputs.cache
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\obj\Release\netstandard2.0\MyTaskData.AssemblyInfo.cs
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\obj\Release\netstandard2.0\MyTaskData.dll
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskData\obj\Release\netstandard2.0\MyTaskData.pdb

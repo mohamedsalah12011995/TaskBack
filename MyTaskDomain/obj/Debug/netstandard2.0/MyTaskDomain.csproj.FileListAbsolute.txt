@@ -1,0 +1,12 @@
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskDomain\bin\Debug\netstandard2.0\MyTaskDomain.deps.json
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskDomain\bin\Debug\netstandard2.0\MyTaskDomain.dll
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskDomain\bin\Debug\netstandard2.0\MyTaskDomain.pdb
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskDomain\bin\Debug\netstandard2.0\MyTaskData.dll
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskDomain\bin\Debug\netstandard2.0\MyTaskData.pdb
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskDomain\obj\Debug\netstandard2.0\MyTaskDomain.csprojAssemblyReference.cache
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskDomain\obj\Debug\netstandard2.0\MyTaskDomain.csproj.CoreCompileInputs.cache
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskDomain\obj\Debug\netstandard2.0\MyTaskDomain.AssemblyInfoInputs.cache
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskDomain\obj\Debug\netstandard2.0\MyTaskDomain.AssemblyInfo.cs
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskDomain\obj\Debug\netstandard2.0\MyTaskDomain.csproj.CopyComplete
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskDomain\obj\Debug\netstandard2.0\MyTaskDomain.dll
+C:\Users\Mo Salah\Desktop\Task MS\TaskBack\MyTaskBack\MyTaskDomain\obj\Debug\netstandard2.0\MyTaskDomain.pdb
